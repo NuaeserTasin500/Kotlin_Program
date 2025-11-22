@@ -35,7 +35,7 @@ fun main()
     println("x % z = $remainder_1")
 
     ///[P.S: if you assign integer-integer operation in a variable marked as "var", still you can't change that variable value as assigning integer-double operation in that variable, because it makes type mismatch]
-    ///[i.e. if you write "var addition = x + y", you can't change it as "addition = x + z", when x, y are integer and z is double, because "addition" variable has become automatically integer after integer-integer operation and it can't store double value]
+    ///[i.e. if you write "var addition = x + y", you can't change it as "addition = x + z", when x, y are integers and z is double, because "addition" variable has become automatically integer after integer-integer operation and it can't store double value]
     
 
 
