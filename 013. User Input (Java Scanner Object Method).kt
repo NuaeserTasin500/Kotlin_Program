@@ -1,4 +1,4 @@
-//// User Input (Java Scannar Object Method)
+//// User Input (Java Scanner Object Method)
 
 import java.util.*; // Highly Recommended for Java Scanner
 
